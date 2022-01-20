@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-8118
-Fork on GitHub
-1705
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Mateo Guzmán</h1>
 <h3 align="center">A full-stack developer from Colombia currently living in the Netherlands</h3>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateo Guzmán</h1>
-<h3 align="center">A full-stack developer from Colombia currently living in the Netherlands</h3>
+<h3 align="center">A full-stack/mobile developer based in the Netherlands</h3>
 
 - 🔭 I’m currently working on **Mobile projects**
 

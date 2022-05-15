@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile projects**
 
-- 🌱 I’m currently learning **Smart Watch integrations for iOS**
+- 🌱 I’m currently learning **NestJS**
 
 - 👯 I’m looking to collaborate on **React Native libraries**
 

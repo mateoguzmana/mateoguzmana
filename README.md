@@ -1,15 +1,4 @@
-<h1 align="center">Hi, I'm Mateo Guzmán</h1>
-<h3 align="center">A full-stack/mobile developer based in the Netherlands</h3>
-
-- 🔭 I’m currently working on **Mobile projects**
-
-- 🌱 I’m currently learning **NestJS**
-
-- 👯 I’m looking to collaborate on **React Native libraries**
-
-- 💬 Ask me about **React Native and other JS stuff**
-
-- ⚡ Fun fact **I'm trying to vlog some programming related content but it is still very poor**
+<p align="left">I do a lot of mobile development for my full-time job. For personal projects I do mobile development with React Native, web with Next.js, back-end with Node (liking NestJS nowadays) and currently experimenting with Supabase for quick full-stack projects.</p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

@@ -1,6 +1,6 @@
 <p align="left">I do a lot of mobile development for my full-time job. For personal projects I do mobile development with React Native, web with Next.js, back-end with Node (liking NestJS nowadays) and currently experimenting with Supabase for quick full-stack projects.</p>
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mateoguzmana/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mateoguzmana/0" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mateoguzmana/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mateoguzmana/1" alt="Recent Article 1"></a>

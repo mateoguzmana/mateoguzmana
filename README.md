@@ -1,1 +1,1 @@
-
+I’m passionate about React Native and open-source. When I’m not coding, you can find me riding my motorbike or traveling—the most productive office I can have is an intercontinental flight lasting 10+ hours.

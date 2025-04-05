@@ -1,1 +1,1 @@
-I’m passionate about React Native and open-source. When I’m not coding, you can find me riding my motorbike or traveling—the most productive office I can have is an intercontinental flight lasting 10+ hours.
+I'm currently making mobile better for the decentralized age, and contributing to React Native Core. Outside of work, you'll find me on my motorbike or deep in focus somewhere over the Atlantic—nothing beats a long-haul flight for getting things done.

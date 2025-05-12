@@ -1,1 +1,1 @@
-I'm currently making mobile better for the decentralized age, and contributing to React Native Core. Outside of work, you'll find me on my motorbike or deep in focus somewhere over the Atlantic—nothing beats a long-haul flight for getting things done.
+I'm currently making mobile better for the decentralized age, and contributing to React Native Core. When I'm not coding, I'm probably on my motorbike or off exploring places where rice rules the plate.
